@@ -1,0 +1,17 @@
+*{margin:0;padding:0;box-sizing:border-box;font-family:'Segoe UI',sans-serif}
+body{background:#f8fafc;color:#1e293b;line-height:1.7}
+.container{max-width:850px;margin:0 auto;padding:20px}
+header{text-align:center;padding:50px 20px;background:white;border-radius:20px;margin:20px 0;box-shadow:0 10px 30px rgba(0,0,0,0.06)}
+header img{width:130px;height:130px;border-radius:50%;object-fit:cover;border:4px solid #6366f1;margin-bottom:15px}
+header h1{font-size:32px}
+header p{color:#64748b;margin-top:6px}
+.badge{display:inline-block;padding:6px 14px;border-radius:20px;font-size:12px;font-weight:600;margin:5px}
+.b1{background:#eef2ff;color:#6366f1} .b2{background:#fef3c7;color:#d97706} .b3{background:#dcfce7;color:#16a34a}
+section{background:white;padding:28px;border-radius:16px;margin:18px 0;box-shadow:0 10px 30px rgba(0,0,0,0.06)}
+h2{font-size:20px;margin-bottom:14px;border-left:4px solid #6366f1;padding-left:10px}
+.skills{display:flex;flex-wrap:wrap;gap:10px}
+.skill{background:#f1f5f9;border:1px solid #e2e8f0;padding:7px 14px;border-radius:8px;font-size:13px}
+.project{border:1px solid #e2e8f0;padding:16px;border-radius:12px;margin-top:12px}
+.contact-link{color:#6366f1;text-decoration:none;font-weight:600}
+.btn{display:inline-block;background:#6366f1;color:white;padding:12px 28px;border-radius:10px;text-decoration:none;margin-top:18px;font-weight:600}
+footer{text-align:center;padding:25px;color:#94a3b8;font-size:13px}
